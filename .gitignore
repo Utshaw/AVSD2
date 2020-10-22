@@ -1,0 +1,16 @@
+venv
+venv2
+*.mp4
+__pycache__
+dataset
+filtered_faces
+images
+input_videos
+videos
+temp.aac
+test.py
+audios
+myProgramLog.txt
+*.log
+0_Speech-To-Text/node_modules
+0_Speech-To-Text/node_modules/venv
